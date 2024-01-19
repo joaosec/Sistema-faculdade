@@ -1,0 +1,14 @@
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.AssemblyInfo.cs
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\joao.andrade\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.exe
+C:\Users\joao.andrade\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.deps.json
+C:\Users\joao.andrade\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.runtimeconfig.json
+C:\Users\joao.andrade\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.dll
+C:\Users\joao.andrade\Desktop\Nova pasta\bin\Debug\net8.0\Nova pasta.pdb
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.dll
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\refint\Nova pasta.dll
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.pdb
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\Nova pasta.genruntimeconfig.cache
+C:\Users\joao.andrade\Desktop\Nova pasta\obj\Debug\net8.0\ref\Nova pasta.dll
